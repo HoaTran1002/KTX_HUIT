@@ -7,6 +7,8 @@ namespace KTX_Huit.Areas.Admin.Controllers
         [Area("Admin")]
         public IActionResult Index()
         {
+
+
             return View();
         }
     }
