@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "wbqXUpiP/0999kKZHeZri320KF2cIGTgS5jrZTTnfVg=",
+  "Hash": "3grcNcHxkVnwe3O77Ckrk2wjy02+tPi8va8ffS3qMCk=",
   "Source": "KTX_Huit",
   "BasePath": "_content/KTX_Huit",
   "Mode": "Default",
@@ -117,23 +117,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Admin\\assets\\css\\bootstrap.min.css"
-    },
-    {
-      "Identity": "D:\\Hufi_KTX\\KTX_Huit\\KTX_Huit\\wwwroot\\Admin\\assets\\css\\floor.css",
-      "SourceId": "KTX_Huit",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Hufi_KTX\\KTX_Huit\\KTX_Huit\\wwwroot\\",
-      "BasePath": "_content/KTX_Huit",
-      "RelativePath": "Admin/assets/css/floor.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Admin\\assets\\css\\floor.css"
     },
     {
       "Identity": "D:\\Hufi_KTX\\KTX_Huit\\KTX_Huit\\wwwroot\\Admin\\assets\\css\\icons.css",
