@@ -240,3 +240,6 @@ D:\Hufi_KTX\KTX_Huit\KTX_Huit\obj\Debug\net6.0\refint\KTX_Huit.dll
 D:\Hufi_KTX\KTX_Huit\KTX_Huit\obj\Debug\net6.0\KTX_Huit.pdb
 D:\Hufi_KTX\KTX_Huit\KTX_Huit\obj\Debug\net6.0\KTX_Huit.genruntimeconfig.cache
 D:\Hufi_KTX\KTX_Huit\KTX_Huit\obj\Debug\net6.0\ref\KTX_Huit.dll
+E:\Work_space\8_github\KTX_HUIT\obj\Debug\net6.0\KTX_Huit.dll
+E:\Work_space\8_github\KTX_HUIT\obj\Debug\net6.0\refint\KTX_Huit.dll
+E:\Work_space\8_github\KTX_HUIT\obj\Debug\net6.0\KTX_Huit.pdb
