@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\KTX_Huit.props" />
+</Project>

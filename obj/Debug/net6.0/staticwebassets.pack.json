@@ -1,0 +1,3553 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\animate.css"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\css\\app-style.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\app-style.css"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\css\\floor.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\floor.css"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\css\\icons.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\icons.css"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\css\\pace.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\pace.min.css"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\css\\sidebar-menu.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\sidebar-menu.css"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\ad.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\ad.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\ae.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\ae.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\af.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\af.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\ag.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\ag.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\ai.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\ai.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\al.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\al.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\am.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\am.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\ao.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\ao.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\aq.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\aq.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\ar.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\ar.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\as.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\as.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\at.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\at.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\au.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\au.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\aw.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\aw.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\ax.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\ax.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\az.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\az.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\ba.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\ba.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\bb.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\bb.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\bd.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\bd.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\be.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\be.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\bf.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\bf.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\bg.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\bg.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\bh.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\bh.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\bi.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\bi.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\bj.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\bj.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\bl.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\bl.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\bm.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\bm.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\bn.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\bn.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\bo.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\bo.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\bq.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\bq.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\br.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\br.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\bs.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\bs.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\bt.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\bt.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\bv.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\bv.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\bw.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\bw.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\by.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\by.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\bz.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\bz.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\ca.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\ca.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\cc.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\cc.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\cd.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\cd.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\cf.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\cf.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\cg.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\cg.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\ch.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\ch.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\ci.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\ci.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\ck.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\ck.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\cl.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\cl.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\cm.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\cm.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\cn.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\cn.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\co.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\co.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\cr.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\cr.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\cu.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\cu.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\cv.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\cv.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\cw.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\cw.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\cx.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\cx.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\cy.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\cy.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\cz.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\cz.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\de.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\de.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\dj.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\dj.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\dk.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\dk.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\dm.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\dm.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\do.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\do.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\dz.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\dz.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\ec.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\ec.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\ee.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\ee.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\eg.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\eg.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\eh.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\eh.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\er.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\er.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\es-ct.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\es-ct.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\es.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\es.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\et.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\et.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\eu.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\eu.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\fi.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\fi.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\fj.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\fj.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\fk.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\fk.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\fm.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\fm.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\fo.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\fo.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\fr.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\fr.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\ga.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\ga.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\gb-eng.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\gb-eng.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\gb-nir.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\gb-nir.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\gb-sct.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\gb-sct.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\gb-wls.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\gb-wls.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\gb.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\gb.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\gd.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\gd.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\ge.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\ge.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\gf.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\gf.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\gg.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\gg.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\gh.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\gh.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\gi.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\gi.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\gl.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\gl.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\gm.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\gm.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\gn.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\gn.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\gp.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\gp.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\gq.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\gq.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\gr.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\gr.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\gs.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\gs.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\gt.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\gt.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\gu.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\gu.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\gw.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\gw.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\gy.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\gy.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\hk.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\hk.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\hm.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\hm.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\hn.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\hn.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\hr.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\hr.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\ht.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\ht.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\hu.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\hu.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\id.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\id.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\ie.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\ie.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\il.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\il.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\im.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\im.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\in.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\in.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\io.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\io.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\iq.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\iq.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\ir.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\ir.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\is.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\is.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\it.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\it.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\je.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\je.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\jm.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\jm.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\jo.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\jo.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\jp.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\jp.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\ke.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\ke.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\kg.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\kg.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\kh.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\kh.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\ki.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\ki.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\km.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\km.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\kn.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\kn.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\kp.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\kp.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\kr.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\kr.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\kw.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\kw.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\ky.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\ky.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\kz.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\kz.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\la.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\la.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\lb.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\lb.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\lc.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\lc.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\li.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\li.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\lk.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\lk.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\lr.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\lr.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\ls.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\ls.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\lt.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\lt.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\lu.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\lu.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\lv.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\lv.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\ly.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\ly.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\ma.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\ma.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\mc.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\mc.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\md.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\md.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\me.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\me.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\mf.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\mf.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\mg.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\mg.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\mh.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\mh.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\mk.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\mk.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\ml.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\ml.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\mm.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\mm.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\mn.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\mn.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\mo.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\mo.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\mp.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\mp.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\mq.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\mq.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\mr.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\mr.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\ms.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\ms.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\mt.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\mt.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\mu.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\mu.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\mv.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\mv.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\mw.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\mw.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\mx.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\mx.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\my.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\my.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\mz.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\mz.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\na.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\na.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\nc.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\nc.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\ne.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\ne.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\nf.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\nf.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\ng.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\ng.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\ni.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\ni.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\nl.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\nl.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\no.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\no.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\np.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\np.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\nr.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\nr.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\nu.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\nu.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\nz.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\nz.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\om.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\om.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\pa.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\pa.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\pe.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\pe.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\pf.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\pf.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\pg.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\pg.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\ph.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\ph.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\pk.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\pk.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\pl.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\pl.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\pm.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\pm.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\pn.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\pn.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\pr.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\pr.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\ps.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\ps.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\pt.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\pt.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\pw.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\pw.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\py.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\py.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\qa.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\qa.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\re.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\re.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\ro.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\ro.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\rs.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\rs.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\ru.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\ru.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\rw.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\rw.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\sa.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\sa.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\sb.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\sb.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\sc.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\sc.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\sd.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\sd.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\se.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\se.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\sg.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\sg.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\sh.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\sh.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\si.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\si.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\sj.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\sj.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\sk.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\sk.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\sl.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\sl.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\sm.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\sm.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\sn.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\sn.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\so.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\so.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\sr.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\sr.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\ss.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\ss.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\st.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\st.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\sv.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\sv.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\sx.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\sx.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\sy.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\sy.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\sz.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\sz.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\tc.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\tc.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\td.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\td.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\tf.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\tf.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\tg.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\tg.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\th.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\th.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\tj.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\tj.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\tk.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\tk.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\tl.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\tl.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\tm.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\tm.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\tn.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\tn.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\to.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\to.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\tr.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\tr.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\tt.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\tt.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\tv.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\tv.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\tw.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\tw.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\tz.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\tz.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\ua.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\ua.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\ug.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\ug.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\um.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\um.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\un.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\un.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\us.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\us.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\uy.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\uy.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\uz.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\uz.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\va.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\va.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\vc.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\vc.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\ve.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\ve.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\vg.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\vg.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\vi.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\vi.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\vn.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\vn.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\vu.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\vu.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\wf.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\wf.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\ws.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\ws.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\ye.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\ye.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\yt.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\yt.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\za.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\za.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\zm.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\zm.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\1x1\\zw.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\1x1\\zw.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\ad.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\ad.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\ae.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\ae.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\af.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\af.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\ag.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\ag.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\ai.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\ai.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\al.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\al.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\am.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\am.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\ao.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\ao.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\aq.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\aq.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\ar.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\ar.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\as.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\as.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\at.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\at.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\au.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\au.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\aw.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\aw.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\ax.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\ax.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\az.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\az.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\ba.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\ba.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\bb.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\bb.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\bd.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\bd.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\be.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\be.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\bf.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\bf.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\bg.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\bg.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\bh.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\bh.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\bi.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\bi.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\bj.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\bj.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\bl.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\bl.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\bm.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\bm.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\bn.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\bn.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\bo.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\bo.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\bq.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\bq.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\br.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\br.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\bs.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\bs.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\bt.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\bt.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\bv.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\bv.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\bw.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\bw.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\by.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\by.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\bz.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\bz.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\ca.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\ca.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\cc.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\cc.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\cd.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\cd.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\cf.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\cf.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\cg.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\cg.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\ch.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\ch.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\ci.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\ci.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\ck.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\ck.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\cl.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\cl.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\cm.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\cm.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\cn.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\cn.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\co.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\co.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\cr.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\cr.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\cu.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\cu.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\cv.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\cv.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\cw.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\cw.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\cx.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\cx.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\cy.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\cy.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\cz.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\cz.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\de.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\de.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\dj.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\dj.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\dk.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\dk.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\dm.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\dm.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\do.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\do.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\dz.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\dz.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\ec.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\ec.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\ee.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\ee.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\eg.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\eg.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\eh.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\eh.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\er.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\er.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\es-ct.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\es-ct.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\es.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\es.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\et.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\et.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\eu.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\eu.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\fi.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\fi.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\fj.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\fj.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\fk.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\fk.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\fm.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\fm.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\fo.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\fo.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\fr.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\fr.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\ga.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\ga.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\gb-eng.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\gb-eng.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\gb-nir.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\gb-nir.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\gb-sct.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\gb-sct.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\gb-wls.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\gb-wls.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\gb.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\gb.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\gd.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\gd.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\ge.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\ge.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\gf.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\gf.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\gg.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\gg.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\gh.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\gh.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\gi.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\gi.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\gl.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\gl.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\gm.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\gm.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\gn.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\gn.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\gp.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\gp.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\gq.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\gq.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\gr.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\gr.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\gs.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\gs.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\gt.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\gt.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\gu.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\gu.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\gw.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\gw.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\gy.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\gy.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\hk.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\hk.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\hm.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\hm.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\hn.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\hn.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\hr.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\hr.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\ht.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\ht.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\hu.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\hu.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\id.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\id.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\ie.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\ie.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\il.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\il.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\im.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\im.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\in.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\in.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\io.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\io.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\iq.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\iq.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\ir.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\ir.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\is.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\is.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\it.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\it.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\je.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\je.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\jm.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\jm.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\jo.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\jo.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\jp.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\jp.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\ke.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\ke.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\kg.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\kg.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\kh.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\kh.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\ki.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\ki.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\km.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\km.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\kn.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\kn.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\kp.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\kp.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\kr.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\kr.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\kw.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\kw.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\ky.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\ky.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\kz.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\kz.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\la.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\la.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\lb.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\lb.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\lc.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\lc.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\li.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\li.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\lk.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\lk.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\lr.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\lr.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\ls.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\ls.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\lt.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\lt.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\lu.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\lu.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\lv.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\lv.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\ly.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\ly.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\ma.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\ma.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\mc.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\mc.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\md.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\md.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\me.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\me.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\mf.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\mf.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\mg.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\mg.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\mh.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\mh.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\mk.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\mk.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\ml.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\ml.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\mm.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\mm.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\mn.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\mn.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\mo.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\mo.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\mp.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\mp.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\mq.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\mq.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\mr.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\mr.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\ms.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\ms.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\mt.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\mt.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\mu.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\mu.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\mv.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\mv.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\mw.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\mw.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\mx.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\mx.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\my.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\my.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\mz.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\mz.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\na.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\na.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\nc.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\nc.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\ne.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\ne.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\nf.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\nf.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\ng.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\ng.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\ni.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\ni.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\nl.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\nl.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\no.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\no.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\np.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\np.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\nr.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\nr.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\nu.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\nu.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\nz.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\nz.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\om.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\om.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\pa.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\pa.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\pe.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\pe.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\pf.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\pf.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\pg.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\pg.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\ph.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\ph.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\pk.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\pk.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\pl.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\pl.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\pm.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\pm.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\pn.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\pn.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\pr.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\pr.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\ps.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\ps.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\pt.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\pt.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\pw.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\pw.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\py.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\py.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\qa.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\qa.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\re.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\re.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\ro.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\ro.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\rs.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\rs.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\ru.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\ru.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\rw.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\rw.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\sa.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\sa.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\sb.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\sb.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\sc.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\sc.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\sd.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\sd.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\se.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\se.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\sg.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\sg.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\sh.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\sh.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\si.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\si.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\sj.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\sj.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\sk.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\sk.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\sl.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\sl.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\sm.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\sm.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\sn.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\sn.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\so.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\so.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\sr.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\sr.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\ss.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\ss.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\st.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\st.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\sv.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\sv.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\sx.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\sx.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\sy.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\sy.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\sz.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\sz.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\tc.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\tc.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\td.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\td.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\tf.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\tf.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\tg.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\tg.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\th.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\th.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\tj.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\tj.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\tk.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\tk.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\tl.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\tl.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\tm.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\tm.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\tn.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\tn.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\to.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\to.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\tr.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\tr.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\tt.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\tt.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\tv.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\tv.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\tw.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\tw.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\tz.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\tz.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\ua.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\ua.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\ug.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\ug.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\um.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\um.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\un.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\un.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\us.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\us.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\uy.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\uy.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\uz.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\uz.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\va.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\va.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\vc.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\vc.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\ve.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\ve.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\vg.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\vg.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\vi.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\vi.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\vn.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\vn.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\vu.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\vu.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\wf.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\wf.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\ws.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\ws.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\ye.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\ye.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\yt.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\yt.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\za.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\za.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\zm.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\zm.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\flags\\4x3\\zw.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\flags\\4x3\\zw.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\fonts\\Simple-Line-Icons.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Simple-Line-Icons.eot"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\fonts\\Simple-Line-Icons.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Simple-Line-Icons.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\fonts\\Simple-Line-Icons.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Simple-Line-Icons.ttf"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\fonts\\Simple-Line-Icons.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Simple-Line-Icons.woff"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\fonts\\Simple-Line-Icons.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Simple-Line-Icons.woff2"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\fonts\\line-awesome.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\line-awesome.eot"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\fonts\\line-awesome.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\line-awesome.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\fonts\\line-awesome.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\line-awesome.ttf"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\fonts\\line-awesome.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\line-awesome.woff"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\fonts\\line-awesome.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\line-awesome.woff2"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\themify.eot"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\themify.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\themify.woff"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\fonts\\weathericons-regular-webfont.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\weathericons-regular-webfont.eot"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\fonts\\weathericons-regular-webfont.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\weathericons-regular-webfont.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\fonts\\weathericons-regular-webfont.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\weathericons-regular-webfont.ttf"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\fonts\\weathericons-regular-webfont.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\weathericons-regular-webfont.woff"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\fonts\\weathericons-regular-webfont.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\weathericons-regular-webfont.woff2"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\images\\bg-themes\\1.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\bg-themes\\1.png"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\images\\bg-themes\\2.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\bg-themes\\2.png"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\images\\bg-themes\\3.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\bg-themes\\3.png"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\images\\bg-themes\\4.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\bg-themes\\4.png"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\images\\bg-themes\\5.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\bg-themes\\5.png"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\images\\bg-themes\\6.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\bg-themes\\6.png"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\images\\gallery\\cd-icon-navigation.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\gallery\\cd-icon-navigation.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\images\\logo-icon.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\logo-icon.png"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\images\\timeline\\angular-icon.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\timeline\\angular-icon.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\images\\timeline\\bootstrap-4.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\timeline\\bootstrap-4.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\images\\timeline\\cd-arrow.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\timeline\\cd-arrow.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\images\\timeline\\cd-icon-location.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\timeline\\cd-icon-location.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\images\\timeline\\cd-icon-movie.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\timeline\\cd-icon-movie.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\images\\timeline\\cd-icon-picture.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\timeline\\cd-icon-picture.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\images\\timeline\\css-3.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\timeline\\css-3.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\images\\timeline\\html5.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\timeline\\html5.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\images\\timeline\\react.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\timeline\\react.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\js\\app-script.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\app-script.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\js\\index.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\index.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\js\\pace.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\pace.min.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\popper.min.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\js\\sidebar-menu.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\sidebar-menu.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\plugins\\Chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\Chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\plugins\\Chart.js\\chartjs-script.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\Chart.js\\chartjs-script.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\plugins\\fullcalendar\\css\\fullcalendar.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\fullcalendar\\css\\fullcalendar.css"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\plugins\\fullcalendar\\css\\fullcalendar.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\fullcalendar\\css\\fullcalendar.min.css"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\plugins\\fullcalendar\\css\\fullcalendar.print.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\fullcalendar\\css\\fullcalendar.print.css"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\plugins\\fullcalendar\\css\\fullcalendar.print.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\fullcalendar\\css\\fullcalendar.print.min.css"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\plugins\\fullcalendar\\js\\fullcalendar-custom-script.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\fullcalendar\\js\\fullcalendar-custom-script.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\plugins\\fullcalendar\\js\\fullcalendar.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\fullcalendar\\js\\fullcalendar.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\plugins\\fullcalendar\\js\\fullcalendar.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\fullcalendar\\js\\fullcalendar.min.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\plugins\\fullcalendar\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\fullcalendar\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\plugins\\fullcalendar\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\fullcalendar\\js\\moment.min.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\plugins\\jquery.easy-pie-chart\\easy-pie-chart.init.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\jquery.easy-pie-chart\\easy-pie-chart.init.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\plugins\\jquery.easy-pie-chart\\easypiechart.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\jquery.easy-pie-chart\\easypiechart.min.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\plugins\\jquery.easy-pie-chart\\jquery.easypiechart.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\jquery.easy-pie-chart\\jquery.easypiechart.min.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\plugins\\simplebar\\css\\simplebar.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\simplebar\\css\\simplebar.css"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\plugins\\simplebar\\js\\simplebar.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\simplebar\\js\\simplebar.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\plugins\\sparkline-charts\\jquery.sparkline.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\sparkline-charts\\jquery.sparkline.min.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Admin\\assets\\plugins\\sparkline-charts\\sparkline-chart-script.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\sparkline-charts\\sparkline-chart-script.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\css\\main.css",
+      "PackagePath": "staticwebassets\\Client\\css\\main.css"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\css\\reset.css",
+      "PackagePath": "staticwebassets\\Client\\css\\reset.css"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\Client\\css\\responsive.css"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\css\\root.css",
+      "PackagePath": "staticwebassets\\Client\\css\\root.css"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\img\\English_flag-icon.png",
+      "PackagePath": "staticwebassets\\Client\\img\\English_flag-icon.png"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\img\\MuCuNhan.png",
+      "PackagePath": "staticwebassets\\Client\\img\\MuCuNhan.png"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\img\\User.png",
+      "PackagePath": "staticwebassets\\Client\\img\\User.png"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\img\\VietNam_flag-icon.png",
+      "PackagePath": "staticwebassets\\Client\\img\\VietNam_flag-icon.png"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\img\\banner-logn-res.jpg",
+      "PackagePath": "staticwebassets\\Client\\img\\banner-logn-res.jpg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\img\\logo.png",
+      "PackagePath": "staticwebassets\\Client\\img\\logo.png"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\js\\main.js",
+      "PackagePath": "staticwebassets\\Client\\js\\main.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4.zip",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4.zip"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\.gitattributes",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\.gitattributes"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\.gitignore",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\.gitignore"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\.travis.yml",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\.travis.yml"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\CONTRIBUTING.md",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\CONTRIBUTING.md"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\Gruntfile.js",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\Gruntfile.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\ISSUE_TEMPLATE.md",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\ISSUE_TEMPLATE.md"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\LICENSE",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\README.md",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\README.md"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\ROADMAP.md",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\ROADMAP.md"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\_config.json",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\_config.json"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\bower.json",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\bower.json"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\dist\\LICENSE",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\dist"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\dist\\README.md",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\dist\\README.md"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\dist\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\dist\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\dist\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\dist\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\dist\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\dist\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\dist\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\dist\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\dist\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\dist\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\dist\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\dist\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\dist\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\dist\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\dist\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\dist\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\dist\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\dist\\owl.carousel.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\dist\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\dist\\owl.carousel.min.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\assets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\assets\\css\\animate.css"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\assets\\css\\docs.theme.min.css",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\assets\\css\\docs.theme.min.css"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\assets\\img\\bird_blue_32.png",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\assets\\img\\bird_blue_32.png"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\assets\\img\\download.png",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\assets\\img\\download.png"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\assets\\img\\feature-drag.png",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\assets\\img\\feature-drag.png"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\assets\\img\\feature-modern.png",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\assets\\img\\feature-modern.png"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\assets\\img\\feature-module.png",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\assets\\img\\feature-module.png"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\assets\\img\\feature-options.png",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\assets\\img\\feature-options.png"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\assets\\img\\feature-responsive.png",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\assets\\img\\feature-responsive.png"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\assets\\img\\feature-zombie.png",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\assets\\img\\feature-zombie.png"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\assets\\img\\owl-logo.png",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\assets\\img\\owl-logo.png"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\assets\\img\\twitter_25.png",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\assets\\img\\twitter_25.png"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\assets\\js\\app.js",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\assets\\js\\app.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\assets\\js\\foundation.min.js",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\assets\\js\\foundation.min.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\README.md",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\README.md"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\assets\\vendors\\foundation.min.js",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\assets\\vendors\\foundation.min.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\assets\\vendors\\highlight.js",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\assets\\vendors\\highlight.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\assets\\vendors\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\assets\\vendors\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\assets\\vendors\\jquery.min.map",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\assets\\vendors\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\assets\\vendors\\jquery.mousewheel.min.js",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\assets\\vendors\\jquery.mousewheel.min.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\demos\\animate.html",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\demos\\animate.html"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\demos\\autoheight.html",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\demos\\autoheight.html"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\demos\\autoplay.html",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\demos\\autoplay.html"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\demos\\autowidth.html",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\demos\\autowidth.html"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\demos\\basic.html",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\demos\\basic.html"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\demos\\center.html",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\demos\\center.html"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\demos\\demos.html",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\demos\\demos.html"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\demos\\events.html",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\demos\\events.html"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\demos\\lazyLoad.html",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\demos\\lazyLoad.html"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\demos\\merge.html",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\demos\\merge.html"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\demos\\mousewheel.html",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\demos\\mousewheel.html"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\demos\\responsive.html",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\demos\\responsive.html"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\demos\\rtl.html",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\demos\\rtl.html"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\demos\\stagepadding.html",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\demos\\stagepadding.html"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\demos\\test.html",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\demos\\test.html"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\demos\\urlhashnav.html",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\demos\\urlhashnav.html"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\demos\\video.html",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\demos\\video.html"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\docs\\api-classes.html",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\docs\\api-classes.html"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\docs\\api-events.html",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\docs\\api-events.html"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\docs\\api-options.html",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\docs\\api-options.html"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\docs\\dev-buildin-plugins.html",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\docs\\dev-buildin-plugins.html"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\docs\\dev-external.html",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\docs\\dev-external.html"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\docs\\dev-plugin-api.html",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\docs\\dev-plugin-api.html"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\docs\\dev-styles.html",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\docs\\dev-styles.html"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\docs\\started-faq.html",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\docs\\started-faq.html"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\docs\\started-installation.html",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\docs\\started-installation.html"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\docs\\started-welcome.html",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\docs\\started-welcome.html"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\docs\\support-changelog.html",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\docs\\support-changelog.html"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\docs\\support-contact.html",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\docs\\support-contact.html"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\docs\\support-contributing.html",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\docs\\support-contributing.html"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\index.html",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs\\index.html"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\assets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\assets\\css\\animate.css"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\bird_blue_32.png",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\bird_blue_32.png"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\download.png",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\download.png"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\feature-drag.png",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\feature-drag.png"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\feature-modern.png",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\feature-modern.png"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\feature-module.png",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\feature-module.png"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\feature-options.png",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\feature-options.png"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\feature-responsive.png",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\feature-responsive.png"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\feature-zombie.png",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\feature-zombie.png"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\owl-logo.png",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\owl-logo.png"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\twitter_25.png",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\twitter_25.png"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\assets\\js\\app.js",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\assets\\js\\app.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\assets\\js\\foundation.min.js",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\assets\\js\\foundation.min.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\assets\\scss\\_settings.scss",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\assets\\scss\\_settings.scss"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\assets\\scss\\custom.scss",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\assets\\scss\\custom.scss"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\assets\\scss\\demos.scss",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\assets\\scss\\demos.scss"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\assets\\scss\\docs.scss",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\assets\\scss\\docs.scss"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\assets\\scss\\docs.theme.scss",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\assets\\scss\\docs.theme.scss"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\assets\\scss\\highlight.scss",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\assets\\scss\\highlight.scss"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\assets\\vendors\\foundation.min.js",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\assets\\vendors\\foundation.min.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\assets\\vendors\\highlight.js",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\assets\\vendors\\highlight.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\assets\\vendors\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\assets\\vendors\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\assets\\vendors\\jquery.min.map",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\assets\\vendors\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\assets\\vendors\\jquery.mousewheel.min.js",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\assets\\vendors\\jquery.mousewheel.min.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\data\\classes.json",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\data\\classes.json"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\data\\events.json",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\data\\events.json"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\data\\features.json",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\data\\features.json"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\data\\options.json",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\data\\options.json"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\helpers\\modulo.js",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\helpers\\modulo.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\helpers\\test.js",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\helpers\\test.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\layouts\\demos.hbs",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\layouts\\demos.hbs"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\layouts\\docs.hbs",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\layouts\\docs.hbs"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\layouts\\home.hbs",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\layouts\\home.hbs"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\animate.hbs",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\animate.hbs"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\autoheight.hbs",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\autoheight.hbs"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\autoplay.hbs",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\autoplay.hbs"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\autowidth.hbs",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\autowidth.hbs"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\basic.hbs",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\basic.hbs"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\center.hbs",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\center.hbs"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\demos.hbs",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\demos.hbs"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\events.hbs",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\events.hbs"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\lazyLoad.hbs",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\lazyLoad.hbs"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\merge.hbs",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\merge.hbs"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\mousewheel.hbs",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\mousewheel.hbs"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\responsive.hbs",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\responsive.hbs"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\rtl.hbs",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\rtl.hbs"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\stagepadding.hbs",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\stagepadding.hbs"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\test.hbs",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\test.hbs"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\urlhashnav.hbs",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\urlhashnav.hbs"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\video.hbs",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\video.hbs"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\api-classes.hbs",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\api-classes.hbs"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\api-events.hbs",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\api-events.hbs"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\api-options.hbs",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\api-options.hbs"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\dev-buildin-plugins.hbs",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\dev-buildin-plugins.hbs"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\dev-external.hbs",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\dev-external.hbs"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\dev-plugin-api.hbs",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\dev-plugin-api.hbs"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\dev-styles.hbs",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\dev-styles.hbs"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\started-faq.hbs",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\started-faq.hbs"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\started-installation.hbs",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\started-installation.hbs"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\started-welcome.hbs",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\started-welcome.hbs"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\support-changelog.hbs",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\support-changelog.hbs"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\support-contact.hbs",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\support-contact.hbs"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\support-contributing.hbs",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\support-contributing.hbs"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\index.hbs",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\index.hbs"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\footer.hbs",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\footer.hbs"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\head.hbs",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\head.hbs"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\header.hbs",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\header.hbs"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\home-carousel.hbs",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\home-carousel.hbs"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\home-features.hbs",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\home-features.hbs"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\home-hero.hbs",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\home-hero.hbs"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\home-teaser-text.hbs",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\home-teaser-text.hbs"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\javascripts.hbs",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\javascripts.hbs"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\releated-docs.hbs",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\releated-docs.hbs"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\sidenav-docs.hbs",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\sidenav-docs.hbs"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\title.hbs",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\title.hbs"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\vendors.hbs",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\vendors.hbs"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\package-lock.json",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\package-lock.json"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\package.json",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\package.json"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\src\\img\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\src\\img\\ajax-loader.gif"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\src\\img\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\src\\img\\owl.video.play.png"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\src\\js\\.jscsrc",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\src\\js\\.jscsrc"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\src\\js\\.jshintrc",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\src\\js\\.jshintrc"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\src\\js\\owl.animate.js",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\src\\js\\owl.animate.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\src\\js\\owl.autoheight.js",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\src\\js\\owl.autoheight.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\src\\js\\owl.autoplay.js",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\src\\js\\owl.autoplay.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\src\\js\\owl.autorefresh.js",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\src\\js\\owl.autorefresh.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\src\\js\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\src\\js\\owl.carousel.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\src\\js\\owl.hash.js",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\src\\js\\owl.hash.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\src\\js\\owl.lazyload.js",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\src\\js\\owl.lazyload.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\src\\js\\owl.navigation.js",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\src\\js\\owl.navigation.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\src\\js\\owl.support.js",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\src\\js\\owl.support.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\src\\js\\owl.support.modernizr.js",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\src\\js\\owl.support.modernizr.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\src\\js\\owl.video.js",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\src\\js\\owl.video.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\src\\scss\\_animate.scss",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\src\\scss\\_animate.scss"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\src\\scss\\_autoheight.scss",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\src\\scss\\_autoheight.scss"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\src\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\src\\scss\\_core.scss"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\src\\scss\\_lazyload.scss",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\src\\scss\\_lazyload.scss"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\src\\scss\\_theme.default.scss",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\src\\scss\\_theme.default.scss"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\src\\scss\\_theme.green.scss",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\src\\scss\\_theme.green.scss"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\src\\scss\\_theme.scss",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\src\\scss\\_theme.scss"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\src\\scss\\_video.scss",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\src\\scss\\_video.scss"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\src\\scss\\owl.carousel.scss",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\src\\scss\\owl.carousel.scss"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\src\\scss\\owl.theme.default.scss",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\src\\scss\\owl.theme.default.scss"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\src\\scss\\owl.theme.green.scss",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\src\\scss\\owl.theme.green.scss"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\test\\index.html",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\test\\index.html"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\test\\unit\\autoplay.js",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\test\\unit\\autoplay.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\OwlCarousel2-2.3.4\\test\\unit\\core.js",
+      "PackagePath": "staticwebassets\\Client\\lib\\OwlCarousel2-2.3.4\\test\\unit\\core.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\slick-1.8.1.zip",
+      "PackagePath": "staticwebassets\\Client\\lib\\slick-1.8.1.zip"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\slick-1.8.1\\.gitignore",
+      "PackagePath": "staticwebassets\\Client\\lib\\slick-1.8.1\\.gitignore"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\slick-1.8.1\\CONTRIBUTING.markdown",
+      "PackagePath": "staticwebassets\\Client\\lib\\slick-1.8.1\\CONTRIBUTING.markdown"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\slick-1.8.1\\ISSUE_TEMPLATE.md",
+      "PackagePath": "staticwebassets\\Client\\lib\\slick-1.8.1\\ISSUE_TEMPLATE.md"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\slick-1.8.1\\LICENSE",
+      "PackagePath": "staticwebassets\\Client\\lib\\slick-1.8.1"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\slick-1.8.1\\Makefile",
+      "PackagePath": "staticwebassets\\Client\\lib\\slick-1.8.1"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\slick-1.8.1\\README.markdown",
+      "PackagePath": "staticwebassets\\Client\\lib\\slick-1.8.1\\README.markdown"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\slick-1.8.1\\bower.json",
+      "PackagePath": "staticwebassets\\Client\\lib\\slick-1.8.1\\bower.json"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\slick-1.8.1\\component.json",
+      "PackagePath": "staticwebassets\\Client\\lib\\slick-1.8.1\\component.json"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\slick-1.8.1\\index.html",
+      "PackagePath": "staticwebassets\\Client\\lib\\slick-1.8.1\\index.html"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\slick-1.8.1\\package.json",
+      "PackagePath": "staticwebassets\\Client\\lib\\slick-1.8.1\\package.json"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\slick-1.8.1\\slick.jquery.json",
+      "PackagePath": "staticwebassets\\Client\\lib\\slick-1.8.1\\slick.jquery.json"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\slick-1.8.1\\slick\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\Client\\lib\\slick-1.8.1\\slick\\ajax-loader.gif"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\slick-1.8.1\\slick\\config.rb",
+      "PackagePath": "staticwebassets\\Client\\lib\\slick-1.8.1\\slick\\config.rb"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\slick-1.8.1\\slick\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\Client\\lib\\slick-1.8.1\\slick\\fonts\\slick.eot"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\slick-1.8.1\\slick\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\Client\\lib\\slick-1.8.1\\slick\\fonts\\slick.svg"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\slick-1.8.1\\slick\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\Client\\lib\\slick-1.8.1\\slick\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\slick-1.8.1\\slick\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\Client\\lib\\slick-1.8.1\\slick\\fonts\\slick.woff"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\slick-1.8.1\\slick\\slick-theme.css",
+      "PackagePath": "staticwebassets\\Client\\lib\\slick-1.8.1\\slick\\slick-theme.css"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\slick-1.8.1\\slick\\slick-theme.less",
+      "PackagePath": "staticwebassets\\Client\\lib\\slick-1.8.1\\slick\\slick-theme.less"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\slick-1.8.1\\slick\\slick-theme.scss",
+      "PackagePath": "staticwebassets\\Client\\lib\\slick-1.8.1\\slick\\slick-theme.scss"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\slick-1.8.1\\slick\\slick.css",
+      "PackagePath": "staticwebassets\\Client\\lib\\slick-1.8.1\\slick\\slick.css"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\slick-1.8.1\\slick\\slick.js",
+      "PackagePath": "staticwebassets\\Client\\lib\\slick-1.8.1\\slick\\slick.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\slick-1.8.1\\slick\\slick.less",
+      "PackagePath": "staticwebassets\\Client\\lib\\slick-1.8.1\\slick\\slick.less"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\slick-1.8.1\\slick\\slick.min.js",
+      "PackagePath": "staticwebassets\\Client\\lib\\slick-1.8.1\\slick\\slick.min.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\Client\\lib\\slick-1.8.1\\slick\\slick.scss",
+      "PackagePath": "staticwebassets\\Client\\lib\\slick-1.8.1\\slick\\slick.scss"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Work_space\\8_github\\KTX_HUIT\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.KTX_Huit.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.KTX_Huit.props",
+      "PackagePath": "build\\KTX_Huit.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.KTX_Huit.props",
+      "PackagePath": "buildMultiTargeting\\KTX_Huit.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.KTX_Huit.props",
+      "PackagePath": "buildTransitive\\KTX_Huit.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
