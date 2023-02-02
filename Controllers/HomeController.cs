@@ -10,6 +10,7 @@ namespace KTX_Huit.Controllers
 
         public HomeController(ILogger<HomeController> logger)
         {
+            //commit đc rồi
             _logger = logger;
         }
 
